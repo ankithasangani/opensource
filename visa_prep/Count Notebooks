@@ -1,0 +1,5 @@
+N=int(input())
+if N==1:
+    print(1*10)
+else:
+    print(N*10)
