@@ -1,0 +1,8 @@
+X=int(input())
+d1=X*0.10
+d2=100
+if d1>d2:
+    print(int(X-d1))
+    
+else:
+    print(X-100)
